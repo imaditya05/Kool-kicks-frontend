@@ -33,33 +33,11 @@ Kool kicks is a fully functional sneaker store. Where uou can find your perfect 
 ## Screenshots
 
 **Desktop Products Page:** 
-![Desktop Products Page](https://user-images.githubusercontent.com/32122085/231354890-e4e88ce0-1e34-42f7-babb-3480bd2ef0d7.png)
+![Desktop Products Page:](https://user-images.githubusercontent.com/32122085/231356031-a9e93904-2f7b-4768-b44f-941b84cc360b.png)
+
 
 **Single Product Page::** 
 ![Single Product Page:](https://user-images.githubusercontent.com/32122085/231354923-fed5654a-a653-498c-b620-e8b31ba369c6.png)
-
-
-Register:
-
-![Login and signup](https://i.postimg.cc/Kzz6cy2Z/Screenshot-from-2023-03-27-12-19-52.png)
-
-Login:
-
-![Login and signup](https://i.postimg.cc/W1mLXn8P/Screenshot-from-2023-03-27-12-19-57.png
-)
-
-**Smartphone view:**
-
-
-![Smartphone Smartphone View](https://i.postimg.cc/yNn71HDd/Screenshot-from-2023-03-27-12-25-53.png)
-
-Product detail:
-
-![Smartphone Smartphone View](https://i.postimg.cc/cHsM3Q1h/Screenshot-from-2023-03-27-12-27-05.png)
-
-Cart:
-
-![Smartphone Smartphone View](https://i.postimg.cc/zDkDpTzW/Screenshot-from-2023-03-27-12-28-32.png)
 
 
 ## Tech Stack  : **MERN**
